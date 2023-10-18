@@ -1,0 +1,28 @@
+Bear Habitat:
+
+Br01; Bungle; 7 years old; birth date 3/21/2016; brown color; male; 320 lbs; from Alaska Zoo, Alaska
+Br02; Baloo; 25 years old; birth date 3/21/1998; black color; female; 425 lbs; from Woodland park Zoo, Washington 
+Br03; Winnie the Pooh; 4 years old; birth date 9/21/2019; black color; female; 355 lbs; from Woodland park Zoo, Washington 
+Br04; Lippy; 4 years old; birth date 3/21/2019; brown color; male; 405 lbs; from Alaska Zoo, Alaska
+
+Hyena Habitat:
+
+Hy01; Prince Nevarah; 4 years old; birth date 3/21/2019; tan color; female; 70 lbs; from Friguia Park, Tunisia
+Hy02; Banzai; 12 years old; birth date 9/21/2011; brown color; male; 150 lbs; from Friguia Park, Tunisia
+Hy03; Lou; 4 years old; birth date 3/21/2019; black color; male; 120 lbs; from Friguia Park, Tunisia
+Hy04; Nne; 8 years old; birth date 1/1/2015; striped color; female; 105 lbs; from Friguia Park, Tunisia
+
+Lion Habitat:
+
+Li01; Scar; 6 years old; birth date 3/21/2017; tan color; female; 300 lbs; from Zanzibar, Tanzania
+Li02; Kiara; 12 years old; birth date 12/21/2011; tan color; female; 375 lbs; from KopeLion, Tanzania
+Li03; Simba; 22 years old; birth date 9/21/2001; golden color; male; 450 lbs; from Zanzibar, Tanzania
+Li04; Cecil; 4 years old; birth date 3/21/2019; brown color; female; 275 lbs; from KopeLion, Tanzania
+
+Tiger Habitat:
+
+Ti01; Jiba; 2 years old; birth date 3/21/2021; gold and tan stripes color; male; 270 lbs; from Dhaka, Bangladesh
+Ti02; Rayas; 4 years old; birth date 3/21/2019; black stripes color; female; 400 lbs; from Dhaka, Bangladesh
+Ti03; Rayas; 18 years old; birth date 9/21/2005; gold and tan color; male; 300 lbs; from Bardia, Nepal
+Ti04; Ryker; 3 years old; birth date 3/21/2020; black stripes color; female; 285 lbs; from Bardia, Nepal
+
